@@ -1,1 +1,4 @@
 /figure_like_data
+__pycache__
+.ipynb_checkpoints
+/bci42a_data
